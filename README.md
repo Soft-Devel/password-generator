@@ -18,10 +18,10 @@ Weekly Challenge Week 3.  JavaScript Password Generator.  Website to use passwor
 
 *  ## **Website Screen Shot**
 
-![Professional Portfolio Website Screenshot](./assets/images/soft-devel.github.png)
+![Professional Portfolio Website Screenshot](./assets/images/password-generator.png)
 
 *  ## **Link to Live Deployment**
-[Link to Live Deployment](https://soft-devel.github.io/ "Password Generator Website Link")
+[Link to Live Deployment](https://github.com/Soft-Devel/password-generator "Password Generator Website Link")
 
 * ## **Link to Challenge Github Repository**
-[Link to Challenge Github Repository](https://github.com/Soft-Devel/Soft-Devel.github.io "Password Generator Repository Link")
+[Link to Challenge Github Repository](https://soft-devel.github.io/password-generator/ "Password Generator Repository Link")
